@@ -1,2 +1,2 @@
-# An-lise-cr-tica
+# Analise critica
 Scrum: Analisando Cases de Sucesso.
